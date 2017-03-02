@@ -152,13 +152,13 @@ hi pandocListReference                     cterm=underline  ctermfg=5  gui=under
 hi pandocMetadata                          cterm=NONE  ctermfg=4  gui=NONE  guifg=#268bd2  gui=NONE
 hi pandocMetadataDelim                     cterm=NONE  ctermfg=14  guifg=#93a1a1  gui=NONE
 hi pandocMetadataKey                       cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
-hi pandocNonBreakingSpace                  cterm=reverse  ctermfg=1  cterm=NONE  gui=reverse  guifg=#dc322f  guibg=NONE
+hi pandocNonBreakingSpace                  cterm=reverse  ctermfg=1  ctermbg=NONE  gui=reverse  guifg=#dc322f  guibg=NONE
 hi pandocRule                              cterm=NONE  ctermfg=4  gui=NONE  guifg=#268bd2  gui=NONE
 hi pandocRuleLine                          cterm=NONE  ctermfg=4  gui=NONE  guifg=#268bd2  gui=NONE
-hi pandocStrikeout                         cterm=reverse  ctermfg=14  cterm=NONE  gui=reverse  guifg=#93a1a1  guibg=NONE
-hi pandocStrikeoutDefinition               cterm=reverse  ctermfg=13  cterm=NONE  gui=reverse  guifg=#6c71c4  guibg=NONE
-hi pandocStrikeoutHeading                  cterm=reverse  ctermfg=9  cterm=NONE  gui=reverse  guifg=#cb4b16  guibg=NONE
-hi pandocStrikeoutTable                    cterm=reverse  ctermfg=4  cterm=NONE  gui=reverse  guifg=#268bd2  guibg=NONE
+hi pandocStrikeout                         cterm=reverse  ctermfg=14  ctermbg=NONE  gui=reverse  guifg=#93a1a1  guibg=NONE
+hi pandocStrikeoutDefinition               cterm=reverse  ctermfg=13  ctermbg=NONE  gui=reverse  guifg=#6c71c4  guibg=NONE
+hi pandocStrikeoutHeading                  cterm=reverse  ctermfg=9  ctermbg=NONE  gui=reverse  guifg=#cb4b16  guibg=NONE
+hi pandocStrikeoutTable                    cterm=reverse  ctermfg=4  ctermbg=NONE  gui=reverse  guifg=#268bd2  guibg=NONE
 hi pandocStrongEmphasis                    cterm=NONE  ctermfg=11  gui=NONE  guifg=#657b83  gui=NONE
 hi pandocStrongEmphasisDefinition          cterm=NONE  ctermfg=13  gui=NONE  guifg=#6c71c4  gui=NONE
 hi pandocStrongEmphasisEmphasis            cterm=NONE  ctermfg=11  gui=NONE  guifg=#657b83  gui=NONE
