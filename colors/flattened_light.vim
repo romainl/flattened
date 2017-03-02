@@ -69,7 +69,7 @@ hi VertSplit                               cterm=NONE  ctermfg=12  ctermbg=12  g
 hi Visual                                  cterm=reverse  ctermfg=14  ctermbg=15 gui=reverse  guifg=#93a1a1  guibg=#fdf6e3  guibg=NONE
 hi VisualNOS                               cterm=reverse  ctermbg=7 gui=reverse  guibg=#eee8d5  guibg=NONE
 hi WarningMsg                              cterm=NONE  ctermfg=1  gui=NONE  guifg=#dc322f  gui=NONE
-hi WildMenu                                cterm=reverse  ctermfg=0  ctermbg=7  cterm=NONE  gui=reverse  guifg=#073642  guibg=#eee8d5  guibg=NONE
+hi WildMenu                                cterm=reverse  ctermfg=0  ctermbg=7  guifg=#073642  guibg=#eee8d5  gui=reverse
 hi cPreCondit                              cterm=NONE  ctermfg=9  guifg=#cb4b16  gui=NONE
 hi gitcommitBranch                         cterm=NONE  ctermfg=5  gui=NONE  guifg=#d33682  gui=NONE
 hi gitcommitComment                        cterm=NONE  ctermfg=14  gui=italic  guifg=#93a1a1  gui=NONE
