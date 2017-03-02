@@ -40,10 +40,10 @@ hi MatchParen                              cterm=NONE  ctermfg=1  ctermbg=14  gu
 hi ModeMsg                                 cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
 hi MoreMsg                                 cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
 hi NonText                                 cterm=NONE  ctermfg=12  gui=NONE  guifg=#839496  gui=NONE
-hi Pmenu                                   cterm=reverse  ctermfg=11  ctermbg=7  cterm=NONE  gui=reverse  guifg=#657b83  guibg=#eee8d5  guibg=NONE
-hi PmenuSbar                               cterm=reverse  ctermfg=0  ctermbg=11  cterm=NONE  gui=reverse  guifg=#073642  guibg=#657b83  guibg=NONE
-hi PmenuSel                                cterm=reverse  ctermfg=14  ctermbg=0  cterm=NONE  gui=reverse  guifg=#93a1a1  guibg=#073642  guibg=NONE
-hi PmenuThumb                              cterm=reverse  ctermfg=11  ctermbg=15  cterm=NONE  gui=reverse  guifg=#657b83  guibg=#fdf6e3  guibg=NONE
+hi Pmenu                                   cterm=reverse  ctermfg=11  ctermbg=7  guifg=#657b83  guibg=#eee8d5  gui=reverse
+hi PmenuSbar                               cterm=reverse  ctermfg=0  ctermbg=11  guifg=#073642  guibg=#657b83  gui=reverse
+hi PmenuSel                                cterm=reverse  ctermfg=14  ctermbg=0  guifg=#93a1a1  guibg=#073642  gui=reverse
+hi PmenuThumb                              cterm=reverse  ctermfg=11  ctermbg=15  guifg=#657b83  guibg=#fdf6e3  gui=reverse
 hi PreProc                                 cterm=NONE  ctermfg=9  guifg=#cb4b16  gui=NONE
 hi Question                                cterm=NONE  ctermfg=6  gui=NONE  guifg=#2aa198  gui=NONE
 hi Search                                  cterm=reverse  ctermfg=3  cterm=NONE  gui=reverse  guifg=#b58900  guibg=NONE
