@@ -22,7 +22,7 @@ hi Constant                                cterm=NONE  ctermfg=6  guifg=#2aa198 
 hi Cursor                                  cterm=NONE  ctermfg=15  ctermbg=11  guifg=#fdf6e3  guibg=#657b83  gui=NONE
 hi CursorColumn                            cterm=NONE  ctermbg=7  guibg=#eee8d5  gui=NONE
 hi CursorLine                              cterm=NONE  ctermbg=7  guibg=#eee8d5  guisp=#586e75  gui=NONE
-hi CursorLineNr                            ctermfg=130  gui=NONE  guifg=Brown
+hi CursorLineNr                            cterm=NONE  ctermfg=130  gui=NONE  guifg=Brown
 hi DiffAdd                                 cterm=NONE  ctermfg=2  ctermbg=7  gui=NONE  guifg=#719e07  guibg=#eee8d5  guisp=#719e07  gui=NONE
 hi DiffChange                              cterm=NONE  ctermfg=3  ctermbg=7  gui=NONE  guifg=#b58900  guibg=#eee8d5  guisp=#b58900  gui=NONE
 hi DiffDelete                              cterm=NONE  ctermfg=1  ctermbg=7  gui=NONE  guifg=#dc322f  guibg=#eee8d5  gui=NONE
@@ -47,7 +47,7 @@ hi PmenuThumb                              cterm=reverse  ctermfg=11  ctermbg=15
 hi PreProc                                 cterm=NONE  ctermfg=9  guifg=#cb4b16  gui=NONE
 hi Question                                cterm=NONE  ctermfg=6  gui=NONE  guifg=#2aa198  gui=NONE
 hi Search                                  cterm=reverse  ctermfg=3  ctermbg=NONE  guifg=#b58900  guibg=NONE gui=reverse
-hi SignColumn                              cterm=NONE  ctermfg=11  ctermbg=248  guifg=#657b83  guibg=Grey  gui=NONE
+hi SignColumn                              cterm=NONE  ctermfg=11  ctermbg=NONE  guifg=#657b83  guibg=NONE  gui=NONE
 hi Special                                 cterm=NONE  ctermfg=1  guifg=#dc322f  gui=NONE
 hi SpecialKey                              cterm=NONE  ctermfg=12  ctermbg=7  gui=NONE  guifg=#839496  guibg=#eee8d5  gui=NONE
 hi SpellBad                                cterm=undercurl ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#dc322f
