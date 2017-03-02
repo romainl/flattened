@@ -68,7 +68,7 @@ hi VarId                                   cterm=NONE  ctermfg=4  guifg=#268bd2 
 hi VertSplit                               cterm=NONE  ctermfg=12  ctermbg=12  guifg=#839496  guibg=#839496  gui=NONE
 hi Visual                                  cterm=reverse  ctermfg=14  ctermbg=15 gui=reverse  guifg=#93a1a1  guibg=#fdf6e3  guibg=NONE
 hi VisualNOS                               cterm=reverse  ctermbg=7 gui=reverse  guibg=#eee8d5  guibg=NONE
-hi WarningMsg                              cterm=NONE  ctermfg=1  gui=NONE  guifg=#dc322f  gui=NONE
+hi WarningMsg                              cterm=NONE  ctermfg=9  gui=NONE  guifg=#dc322f  gui=NONE
 hi WildMenu                                cterm=reverse  ctermfg=0  ctermbg=7  guifg=#073642  guibg=#eee8d5  gui=reverse
 hi cPreCondit                              cterm=NONE  ctermfg=9  guifg=#cb4b16  gui=NONE
 hi gitcommitBranch                         cterm=NONE  ctermfg=5  gui=NONE  guifg=#d33682  gui=NONE

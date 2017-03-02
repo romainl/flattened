@@ -68,7 +68,7 @@ hi  VarId                                   ctermfg=4  guifg=#268bd2  gui=NONE
 hi  VertSplit                               ctermfg=11  ctermbg=11  guifg=#657b83  guibg=#657b83  gui=NONE
 hi  Visual                                  cterm=reverse  ctermfg=10  ctermbg=8  guifg=#586e75  guibg=#002b36  gui=reverse
 hi  VisualNOS                               cterm=reverse  ctermbg=0  ctermbg=NONE  guibg=#073642  guifg=NONE  gui=reverse
-hi  WarningMsg                              cterm=NONE  ctermfg=1  guifg=#dc322f  gui=NONE
+hi  WarningMsg                              cterm=NONE  ctermfg=9  guifg=#dc322f  gui=NONE
 hi  WildMenu                                cterm=reverse  ctermfg=7  ctermbg=0  guifg=#eee8d5  guibg=#073642 gui=reverse
 
 hi  cPreCondit                              ctermfg=9  guifg=#cb4b16  gui=NONE
