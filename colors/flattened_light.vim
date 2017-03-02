@@ -46,7 +46,7 @@ hi PmenuSel                                cterm=reverse  ctermfg=14  ctermbg=0 
 hi PmenuThumb                              cterm=reverse  ctermfg=11  ctermbg=15  guifg=#657b83  guibg=#fdf6e3  gui=reverse
 hi PreProc                                 cterm=NONE  ctermfg=9  guifg=#cb4b16  gui=NONE
 hi Question                                cterm=NONE  ctermfg=6  gui=NONE  guifg=#2aa198  gui=NONE
-hi Search                                  cterm=reverse  ctermfg=3  cterm=NONE  gui=reverse  guifg=#b58900  guibg=NONE
+hi Search                                  cterm=reverse  ctermfg=3  ctermbg=NONE  guifg=#b58900  guibg=NONE gui=reverse
 hi SignColumn                              cterm=NONE  ctermfg=11  ctermbg=248  guifg=#657b83  guibg=Grey  gui=NONE
 hi Special                                 cterm=NONE  ctermfg=1  guifg=#dc322f  gui=NONE
 hi SpecialKey                              cterm=NONE  ctermfg=12  ctermbg=7  gui=NONE  guifg=#839496  guibg=#eee8d5  gui=NONE
